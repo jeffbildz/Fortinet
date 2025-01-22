@@ -1,5 +1,3 @@
- Fortinet CLI Cheat Sheet body { font-family: Arial, sans-serif; margin: 20px; line-height: 1.4; } h1, h2, h3 { color: #2c3e50; } table { width: 100%; border-collapse: collapse; margin-bottom: 1em; } th, td { border: 1px solid #ccc; padding: 8px; vertical-align: top; } th { background-color: #f8f8f8; } code { background-color: #f4f4f4; padding: 2px 4px; font-family: "Courier New", Courier, monospace; } pre { background-color: #f4f4f4; padding: 10px; overflow: auto; font-family: "Courier New", Courier, monospace; }
-
 Fortinet CLI Cheat Sheet
 ========================
 
